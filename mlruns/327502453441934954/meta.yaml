@@ -1,6 +1,0 @@
-artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/327502453441934954
-creation_time: 1710964551568
-experiment_id: '327502453441934954'
-last_update_time: 1710964551568
-lifecycle_stage: active
-name: churn_task

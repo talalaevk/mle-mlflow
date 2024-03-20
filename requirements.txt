@@ -12,3 +12,4 @@ seaborn==0.13.0
 autofeat==2.1.2
 mlxtend==0.23.0
 psycopg2-binary==2.9.9
+boto3==1.34.67
