@@ -162,3 +162,5 @@ cython_debug/
 mlflow_experiments_store/
 mlflow_experiments_store_sqlite/
 mydb.sqlite
+assets/
+mlruns/
