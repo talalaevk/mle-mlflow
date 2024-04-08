@@ -166,3 +166,4 @@ assets/
 mlruns/
 fs_assets/
 catboost_info/
+*.db
